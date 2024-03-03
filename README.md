@@ -9,6 +9,14 @@ Este proyecto consiste en una herramienta de visualización de datos para análi
 - **JavaScript**: Se utiliza para la lógica de negocio y para interactuar con la biblioteca Chart.js.
 - **Chart.js**: Una biblioteca de JavaScript para crear gráficos interactivos y personalizables en la web.
 
+## Capturas de pantalla
+
+Aquí tienes algunas capturas de pantalla de la herramienta:
+
+![Captura de pantalla 1](captura1.png)
+
+![Captura de pantalla 2](captura2.png)
+
 ## 🚀 Características Principales 🚀
 
 - **Gráficos Interactivos**: Los gráficos de barras son interactivos, lo que permite a los usuarios ver información detallada al pasar el cursor sobre las barras.
