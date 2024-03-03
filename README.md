@@ -34,13 +34,24 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 ¡Si encuentras útil esta herramienta, no dudes en compartirla y seguirme en GitHub para más proyectos interesantes! 😊
 ---
 
-✔  No olvides suscribirte, compartir, darle like y dejar tus comentarios en la sección de abajo. ¡Tu apoyo es muy importante para mí  y me ayudas a seguir creando contenido. 💚
+## ¿Cómo puedes apoyar?
 
-1-🎬 Youtube: https://www.youtube.com/@JuancitoPenaV 
-2-👨‍💼 LinkedIn: https://www.linkedin.com/in/juancitope%C3%B1a/
-3-📰 Blog: https://advisertecnology.com/
-4-📷 Instagram: https://www.instagram.com/juancito.pena.v/
-5-📑 Facebook: https://www.facebook.com/juancito.p.v
-6-🐦 Twitter: https://twitter.com/JuancitoPenaV
+Tu apoyo es muy importante para mí y me ayuda a seguir creando contenido. Aquí tienes algunas formas de hacerlo:
+
+✔ Suscríbete a mis canales en las redes sociales:
+
+1. 🎬 [YouTube](https://www.youtube.com/@JuancitoPenaV)
+2. 👨‍💼 [LinkedIn](https://www.linkedin.com/in/juancitope%C3%B1a/)
+3. 📰 [Blog](https://advisertecnology.com/)
+4. 📷 [Instagram](https://www.instagram.com/juancito.pena.v/)
+5. 📑 [Facebook](https://www.facebook.com/juancito.p.v)
+6. 🐦 [Twitter](https://twitter.com/JuancitoPenaV)
+
+✔ Comparte mi contenido con tus amigos y seguidores.
+
+✔ Deja tus comentarios y sugerencias en la sección de comentarios.
+
+¡Gracias por tu apoyo! 💚
+
 
 ---
