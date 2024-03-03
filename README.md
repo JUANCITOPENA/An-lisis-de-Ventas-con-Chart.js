@@ -13,9 +13,9 @@ Este proyecto consiste en una herramienta de visualización de datos para análi
 
 Aquí tienes algunas capturas de pantalla de la herramienta:
 
-![Captura de pantalla 1](captura1.png)
+![1](GRAFICOS1.png)
 
-![Captura de pantalla 2](captura2.png)
+![](GRAFICOS1.png)
 
 ## 🚀 Características Principales 🚀
 
