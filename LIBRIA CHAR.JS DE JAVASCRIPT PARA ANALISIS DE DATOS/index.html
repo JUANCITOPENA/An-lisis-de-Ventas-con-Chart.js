@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Se establece la codificación del documento -->
+  <meta charset="UTF-8">
+  <!-- Se establece la escala inicial del viewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Se define el título de la página -->
+  <title>Análisis de Ventas - Base Tecnológica</title>
+  <!-- Se vincula una hoja de estilos externa -->
+  <link type="text/css" rel="stylesheet" href="style.css" />
+  <!-- Se importa la biblioteca Chart.js desde un CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+  <!-- Encabezado de la página -->
+  <h2>Análisis de Ventas - Base Tecnológica</h2>
+  
+  <!-- Contenedor para el gráfico de ventas -->
+  <div class="chart-container">
+    <canvas id="ventasChart"></canvas>
+  </div>
+  <!-- Contenedor para el gráfico de clientes -->
+  <div class="chart-container">
+    <canvas id="clientesChart"></canvas>
+  </div>
+  <!-- Contenedor para el gráfico de vendedores -->
+  <div class="chart-container">
+    <canvas id="vendedoresChart"></canvas>
+  </div>
+  <!-- Contenedor para el gráfico de fecha -->
+  <div class="chart-container">
+    <canvas id="fechaChart"></canvas>
+  </div>
+  <!-- Contenedor para el gráfico de productos -->
+  <div class="chart-container">
+    <canvas id="productosChart"></canvas>
+  </div>
+
+<!-- Se importa el archivo de script JavaScript -->
+<script type="module" src="script.js"></script>
+
+</body>
+</html>
