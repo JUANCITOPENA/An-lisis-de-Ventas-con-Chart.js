@@ -8,19 +8,19 @@ body {
     height: 100vh; /* El cuerpo ocupa toda la altura de la ventana */
     margin: 0; /* Elimina los márgenes predeterminados */
     background-color: #f0f0f0; /* Color de fondo */
-  }
-  
-  /* Estilos para el encabezado de nivel 2 */
-  h2 {
+}
+
+/* Estilos para el encabezado de nivel 2 */
+h2 {
     font-family: Arial, sans-serif; /* Fuente predeterminada */
     width: 100%; /* El ancho del encabezado ocupa todo el contenedor */
     text-align: center; /* El texto se alinea al centro */
     margin-bottom: 20px; /* Margen inferior */
     color: #333; /* Color del texto */
-  }
-  
-  /* Estilos para el contenedor de los gráficos */
-  .chart-container {
+}
+
+/* Estilos para el contenedor de los gráficos */
+.chart-container {
     width: calc(50% - 20px); /* Ancho del contenedor (50% del ancho total menos los márgenes) */
     height: 300px; /* Altura del contenedor */
     margin: 10px; /* Márgenes entre los contenedores */
@@ -29,11 +29,17 @@ body {
     overflow: hidden; /* Oculta el contenido que excede el contenedor */
     background-color: #fff; /* Color de fondo */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra del contenedor */
-  }
-  
-  /* Estilos para el elemento canvas dentro del contenedor */
-  canvas {
+}
+
+/* Estilos para el elemento canvas dentro del contenedor */
+canvas {
     width: 100% !important; /* El lienzo ocupa todo el ancho del contenedor */
     height: 100% !important; /* El lienzo ocupa toda la altura del contenedor */
-  }
-  
+}
+
+/* Media queries para dispositivos móviles y tabletas */
+@media only screen and (max-width: 768px) {
+    .chart-container {
+        width: calc(100% - 20px); /* Cambia el ancho del contenedor al 100% del ancho total */
+    }
+}
