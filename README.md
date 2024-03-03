@@ -9,11 +9,11 @@ Este proyecto consiste en una herramienta de visualización de datos para análi
 - **JavaScript**: Se utiliza para la lógica de negocio y para interactuar con la biblioteca Chart.js.
 - **Chart.js**: Una biblioteca de JavaScript para crear gráficos interactivos y personalizables en la web.
 
-## Enlace para interactuar
+## 🔗 Enlace para interactuar 🔖
 
-Puedes interactuar con la herramienta de análisis de ventas [aquí](https://juancitopena.github.io/An-lisis-de-Ventas-con-Chart.js/).
+🔗 Puedes interactuar con la herramienta de análisis de ventas [aquí](https://juancitopena.github.io/An-lisis-de-Ventas-con-Chart.js/).
 
-## Capturas de pantalla
+## 📸 Capturas de pantalla📸 
 
 Aquí tienes algunas capturas de pantalla de la herramienta:
 
