@@ -45,17 +45,22 @@ const productosData = await cargarDatos("productosData");
               }
             }]
           },
-          tooltips: { // Personalizar los tooltips
-            callbacks: {
-              label: function (tooltipItem, data) {
-                var label = data.datasets[tooltipItem.datasetIndex].label || ''; // Obtener etiqueta
-                var value = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index]; // Obtener valor
-                var monto = data.datasets[tooltipItem.datasetIndex].monto[tooltipItem.index]; // Obtener monto
-                if (label) {
-                  label += ': ';
+          plugins: {
+            tooltip: { // Personalizar los tooltips
+              callbacks: {
+                label: function (tooltipItem) {
+                  console.log(tooltipItem)
+                  var label = tooltipItem.label || '' // Obtener etiqueta
+                  var value = tooltipItem.dataset.data[tooltipItem.datasetIndex] // Obtener valor
+                  var monto = tooltipItem.dataset.monto[tooltipItem.datasetIndex] // Obtener monto
+                  if (label) {
+                    label += ': ' + value;
+                  }
+                  if (monto){
+                  label += ' (Monto: ' + monto + ')'; // Construir etiqueta con monto
+                  }
+                  return label;
                 }
-                label += value + ' (Monto: ' + monto + ')'; // Construir etiqueta con monto
-                return label;
               }
             }
           }
