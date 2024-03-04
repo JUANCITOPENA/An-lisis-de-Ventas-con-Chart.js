@@ -1,0 +1,62 @@
+[
+  {
+    "producto": "Teclado Gamer",
+    "descripcion": "Teclado mecánico retroiluminado",
+    "cantidad": 50,
+    "monto": 5000
+  },
+  {
+    "producto": "Mouse Gamer",
+    "descripcion": "Mouse óptico de alta precisión",
+    "cantidad": 65,
+    "monto": 6500
+  },
+  {
+    "producto": "Auriculares Gamer",
+    "descripcion": "Auriculares con sonido envolvente",
+    "cantidad": 40,
+    "monto": 4000
+  },
+  {
+    "producto": "Mousepad Gamer",
+    "descripcion": "Mousepad de gran tamaño",
+    "cantidad": 30,
+    "monto": 3000
+  },
+  {
+    "producto": "Monitor Gamer",
+    "descripcion": "Monitor de alta resolución y frecuencia de actualización",
+    "cantidad": 20,
+    "monto": 8000
+  },
+  {
+    "producto": "Silla Gamer",
+    "descripcion": "Silla ergonómica para largas sesiones de juego",
+    "cantidad": 15,
+    "monto": 6000
+  },
+  {
+    "producto": "Tarjeta Gráfica Gamer",
+    "descripcion": "Tarjeta gráfica de última generación para un rendimiento óptimo",
+    "cantidad": 25,
+    "monto": 10000
+  },
+  {
+    "producto": "Cámara Web Gamer",
+    "descripcion": "Cámara web de alta definición para transmisiones en vivo",
+    "cantidad": 35,
+    "monto": 4500
+  },
+  {
+    "producto": "Audífonos Inalámbricos Gamer",
+    "descripcion": "Audífonos con conexión inalámbrica para una mayor comodidad",
+    "cantidad": 45,
+    "monto": 5500
+  },
+  {
+    "producto": "Volante Gamer",
+    "descripcion": "Volante de simulación para juegos de carreras",
+    "cantidad": 10,
+    "monto": 7000
+  }
+]

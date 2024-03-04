@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Antonio Perez",
+    "ventas": 30
+  },
+  {
+    "nombre": "Jesus Maldonado",
+    "ventas": 25
+  },
+  {
+    "nombre": "Pedro de la Cruz",
+    "ventas": 28
+  },
+  {
+    "nombre": "Marino Pena",
+    "ventas": 35
+  },
+  {
+    "nombre": "Salvador Ramirez",
+    "ventas": 32
+  }
+]

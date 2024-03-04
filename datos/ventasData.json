@@ -1,0 +1,62 @@
+[
+  {
+    "mes": "Enero",
+    "cantidad": 120,
+    "monto": 12000
+  },
+  {
+    "mes": "Febrero",
+    "cantidad": 150,
+    "monto": 15000
+  },
+  {
+    "mes": "Marzo",
+    "cantidad": 180,
+    "monto": 18000
+  },
+  {
+    "mes": "Abril",
+    "cantidad": 135,
+    "monto": 13500
+  },
+  {
+    "mes": "Mayo",
+    "cantidad": 200,
+    "monto": 20000
+  },
+  {
+    "mes": "Junio",
+    "cantidad": 220,
+    "monto": 22000
+  },
+  {
+    "mes": "Julio",
+    "cantidad": 190,
+    "monto": 19000
+  },
+  {
+    "mes": "Agosto",
+    "cantidad": 170,
+    "monto": 17000
+  },
+  {
+    "mes": "Septiembre",
+    "cantidad": 160,
+    "monto": 16000
+  },
+  {
+    "mes": "Octubre",
+    "cantidad": 185,
+    "monto": 18500
+  },
+  {
+    "mes": "Noviembre",
+    "cantidad": 210,
+    "monto": 21000
+  },
+  {
+    "mes": "Diciembre",
+    "cantidad": 230,
+    "monto": 23000
+  }
+]
