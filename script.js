@@ -50,7 +50,6 @@ const productosData = await cargarDatos("productosData");
             tooltip: { // Personalizar los tooltips
               callbacks: {
                 label: function (tooltipItem) {
-                  console.log(tooltipItem)
                   var label = tooltipItem.label || '' // Obtener etiqueta
                   var value = tooltipItem.dataset.data[tooltipItem.datasetIndex] // Obtener valor
                   var monto = tooltipItem.dataset.monto[tooltipItem.datasetIndex] // Obtener monto
