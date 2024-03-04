@@ -30,6 +30,7 @@ const productosData = await cargarDatos("productosData");
             label: label,
             data: data.map(item => item.ventas || item.cantidad), // Obtener datos de ventas o cantidad
             monto: data.map(item => item.monto), // Obtener datos de monto
+            descripcion: data.map(item => item.descripcion),
             backgroundColor: colors, // Establecer colores aleatorios
             borderColor: 'rgba(54, 162, 235, 1)', // Establecer color del borde
             borderWidth: 1 // Establecer ancho del borde
@@ -60,6 +61,13 @@ const productosData = await cargarDatos("productosData");
                   label += ' (Monto: ' + monto + ')'; // Construir etiqueta con monto
                   }
                   return label;
+                },
+                afterLabel: function (tooltipItem) {
+                    let descripcion = tooltipItem.dataset.descripcion[tooltipItem.dataIndex] //Obtener descripcion
+                    if (descripcion){
+                        return "\n" + descripcion
+                    }
+                    return
                 }
               }
             }
